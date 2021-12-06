@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/giantswarm/template.svg?style=shield)](https://circleci.com/gh/giantswarm/template)
+[![CircleCI](https://circleci.com/gh/giantswarm/crds.svg?style=shield)](https://circleci.com/gh/giantswarm/crds)
 
-# REPOSITORY_NAME
+# crds
 
 This is a template repository containing some basic files every repository
 needs.
